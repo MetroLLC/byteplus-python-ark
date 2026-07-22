@@ -1,7 +1,7 @@
 # byteplus-python-ark
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![License: Apache 2.0](https://shields.io)](https://opensource.org)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org)
 
 A lightweight, zero-configuration Python Command Line Interface (CLI) to interact with Doubao AI models via the official international BytePlus Ark API. Built entirely without complex overhead.
 
